@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Valerio, a junior PHP and Java developer.
+### I'm Valerio, a PHP and Java developer.
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 <!--

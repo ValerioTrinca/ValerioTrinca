@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<div align="center">
+<img src="https://media4.giphy.com/media/8VuRJQmAxo6HK/giphy.gif?cid=ecf05e47jtxtov7lj7bab7hdmz4e3jka5sh2ko5vqjice5nt&rid=giphy.gif&ct=g">
+</div>
 <!--
 **ValerioTrinca/ValerioTrinca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

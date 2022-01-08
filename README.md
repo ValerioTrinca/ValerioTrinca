@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Symfony framework**
 
-- 📄 Know about my experiences [mainly I'm a PHP Developer](mainly I'm a PHP Developer)
+- 📄 Know about my experiences mainly I'm a PHP Developer
 
 - ⚡ Fun fact **I don't like JS**
 

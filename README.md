@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valerio</h1>
+
 - 🔭 I’m currently working in **Intesa San Paolo as Back-end Developer**
 
 - 🌱 I’m currently learning **Golang**

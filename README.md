@@ -4,3 +4,7 @@
 - My favorite languages are Java and Golang
 
 That's all.
+
+<p align="center">
+  <img src="gif.gif" width="600"/>
+</p>
